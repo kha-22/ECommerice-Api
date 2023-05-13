@@ -3,6 +3,7 @@ using ECommerice.Core.Entities.OrderAggregate;
 using ECommerice.Core.IRepository;
 using ECommerice.Core.IUniteOfWork;
 using ECommerice.Core.Specification;
+using ECommerice.Infrastructure.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,11 +14,13 @@ namespace ECommerice.Infrastructure.Repository
 {
     public class OrderRepo : IOrderRepo
     {
-        private readonly IUniteOfWork _uniteOfWork;
+        private readonly IUniteOfWork _uniteOfWork; 
+        private readonly IMailService _mailService; 
 
-        public OrderRepo(IUniteOfWork uniteOfWork)
+        public OrderRepo(IUniteOfWork uniteOfWork, IMailService mailService)
         {
             _uniteOfWork = uniteOfWork;
+            _mailService = mailService;
         }
 
         public async Task<IEnumerable<Order>> GetOrdersSearch(int pageNo,int pageSize,DateTime? dateFrom, DateTime? dateTo)
@@ -61,6 +64,11 @@ namespace ECommerice.Infrastructure.Repository
             //save in db
             var result = await _uniteOfWork.Complete();
             if (result <= 0) return null;
+
+
+            //send mail
+
+            await _mailService.SendEmail("", "", "", "");
 
             //retun order
             return order;

@@ -3,6 +3,7 @@ using ECommerice.Core.IRepository;
 using ECommerice.Core.IUniteOfWork;
 using ECommerice.Infrastructure.Repository;
 using ECommerice.Infrastructure.UniteOfWork;
+using ECommerice.Infrastructure.Utilities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -21,8 +22,9 @@ namespace ECommerice.Api.Extensions.Helpers
             services.AddScoped(typeof(IGenericRepository<>), (typeof(GenericRepository<>)));
             services.AddScoped<IOrderRepo, OrderRepo>(); 
             services.AddScoped<IUniteOfWork, UniteOfWork>();
-            services.AddScoped<IUploaderRepo, UploaderRepo>();            
-
+            services.AddScoped<IUploaderRepo, UploaderRepo>();
+            services.AddTransient<IMailService, MailService>();
+            
             //Configuration validation errors as global
             services.Configure<ApiBehaviorOptions>(option =>
             {
