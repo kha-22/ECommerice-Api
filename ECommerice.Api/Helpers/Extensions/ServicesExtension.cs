@@ -24,6 +24,7 @@ namespace ECommerice.Api.Extensions.Helpers
             services.AddScoped<IUniteOfWork, UniteOfWork>();
             services.AddScoped<IUploaderRepo, UploaderRepo>();
             services.AddTransient<IMailService, MailService>();
+            services.AddTransient<IContactusRepo, ContactusRepo>();
             
             //Configuration validation errors as global
             services.Configure<ApiBehaviorOptions>(option =>

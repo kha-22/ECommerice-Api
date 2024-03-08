@@ -1,0 +1,15 @@
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\bin\Debug\net5.0\ECommerice.Service.deps.json
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\bin\Debug\net5.0\ECommerice.Service.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\bin\Debug\net5.0\ECommerice.Service.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\obj\Debug\net5.0\ECommerice.Service.csproj.AssemblyReference.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\obj\Debug\net5.0\ECommerice.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\obj\Debug\net5.0\ECommerice.Service.AssemblyInfoInputs.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\obj\Debug\net5.0\ECommerice.Service.AssemblyInfo.cs
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\obj\Debug\net5.0\ECommerice.Service.csproj.CoreCompileInputs.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\obj\Debug\net5.0\ECommerice.Service.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\obj\Debug\net5.0\refint\ECommerice.Service.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\obj\Debug\net5.0\ECommerice.Service.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\obj\Debug\net5.0\ref\ECommerice.Service.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\bin\Debug\net5.0\ECommerice.Core.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\bin\Debug\net5.0\ECommerice.Core.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Service\obj\Debug\net5.0\ECommerice.Service.csproj.CopyComplete

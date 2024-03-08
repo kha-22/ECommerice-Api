@@ -11,6 +11,6 @@ namespace ECommerice.Core.IUniteOfWork
     public interface IUniteOfWork : IDisposable
     {
         IGenericRepository<TEntity> Repository<TEntity>() where TEntity : BaseEntity;
-        Task<int> Complete();
+        Task<int> CompleteAsync();
     }
 }

@@ -1,0 +1,406 @@
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\appsettings.json
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.exe
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.deps.json
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.json
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.dev.json
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ref\ECommerice.Api.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.pdb
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Humanizer.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.pdb
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.AssemblyReference.cache
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfoInputs.cache
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfo.cs
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CoreCompileInputs.cache
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.Manifest.cache
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.xml
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\scopedcss\bundle\ECommerice.Api.styles.css
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.RazorTargetAssemblyInfo.cache
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CopyComplete
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ref\ECommerice.Api.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.pdb
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.genruntimeconfig.cache
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\AutoMapper.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\StackExchange.Redis.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\appsettings.json
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.exe
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.deps.json
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.json
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.dev.json
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ref\ECommerice.Api.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.pdb
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\AutoMapper.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Humanizer.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\StackExchange.Redis.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.pdb
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.AssemblyReference.cache
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfoInputs.cache
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfo.cs
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CoreCompileInputs.cache
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.Manifest.cache
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.xml
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\scopedcss\bundle\ECommerice.Api.styles.css
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.RazorTargetAssemblyInfo.cache
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CopyComplete
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ref\ECommerice.Api.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.pdb
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.genruntimeconfig.cache
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\appsettings.json
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.exe
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.deps.json
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.json
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.dev.json
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ref\ECommerice.Api.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.pdb
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\AutoMapper.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Humanizer.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\StackExchange.Redis.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.pdb
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.AssemblyReference.cache
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfoInputs.cache
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfo.cs
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CoreCompileInputs.cache
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.Manifest.cache
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.xml
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\scopedcss\bundle\ECommerice.Api.styles.css
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.RazorTargetAssemblyInfo.cache
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CopyComplete
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ref\ECommerice.Api.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.pdb
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.genruntimeconfig.cache
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\appsettings.json
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.exe
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.deps.json
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.json
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.dev.json
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ref\ECommerice.Api.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.pdb
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\AutoMapper.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Humanizer.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\StackExchange.Redis.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.pdb
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.AssemblyReference.cache
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfoInputs.cache
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfo.cs
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CoreCompileInputs.cache
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.Manifest.cache
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.xml
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\scopedcss\bundle\ECommerice.Api.styles.css
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.RazorTargetAssemblyInfo.cache
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CopyComplete
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ref\ECommerice.Api.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.pdb
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.genruntimeconfig.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\appsettings.json
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.exe
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.deps.json
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.json
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.dev.json
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\AutoMapper.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Humanizer.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\StackExchange.Redis.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.AssemblyReference.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfoInputs.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfo.cs
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CoreCompileInputs.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.Manifest.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\scopedcss\bundle\ECommerice.Api.styles.css
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.RazorTargetAssemblyInfo.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CopyComplete
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ref\ECommerice.Api.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.genruntimeconfig.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\MailKit.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\MimeKit.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Formats.Asn1.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.Pack.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\msbuild.ECommerice.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\msbuild.build.ECommerice.Api.props
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ECommerice.Api.props
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ECommerice.Api.props
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\refint\ECommerice.Api.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.pdb

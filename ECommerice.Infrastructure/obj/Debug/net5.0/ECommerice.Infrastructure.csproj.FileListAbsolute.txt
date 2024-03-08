@@ -1,0 +1,90 @@
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.deps.json
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.pdb
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.AssemblyReference.cache
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfoInputs.cache
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfo.cs
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CopyComplete
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.json
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.dev.json
+E:\Programming\My Work\ECommerice project\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.genruntimeconfig.cache
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.deps.json
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.json
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.dev.json
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.pdb
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.AssemblyReference.cache
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfoInputs.cache
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfo.cs
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CopyComplete
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work & Projects\ECommerice project\Sources bk\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.genruntimeconfig.cache
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.deps.json
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.json
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.dev.json
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.pdb
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.AssemblyReference.cache
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfoInputs.cache
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfo.cs
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CopyComplete
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work & Projects\Sawsan\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.genruntimeconfig.cache
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.deps.json
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.json
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.dev.json
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.pdb
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.AssemblyReference.cache
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfoInputs.cache
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfo.cs
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CopyComplete
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work & Projects\Sawsan project\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.genruntimeconfig.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.deps.json
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.json
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.dev.json
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.AssemblyReference.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfoInputs.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfo.cs
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CopyComplete
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.genruntimeconfig.cache
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Infrastructure\obj\Debug\net5.0\refint\ECommerice.Infrastructure.dll

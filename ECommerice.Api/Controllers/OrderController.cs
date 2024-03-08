@@ -86,8 +86,7 @@ namespace ECommerice.Api.Controllers
             return Ok(result);
         }
 
-        #region Admin only
-
+        #region Admin only ======================================================
         [Authorize]
         [HttpPost("getOrders")]
         public async Task<ActionResult<IEnumerable<Order>>> GetAllOrders(OrderSearchDTO orderSearch)
@@ -117,6 +116,7 @@ namespace ECommerice.Api.Controllers
            
         }
 
+        [Authorize]
         [HttpGet("getOrderItems/{id}")]
         public async Task<ActionResult<OrderToReturnDTO>> GetOrderItems(int id)
         {
@@ -156,7 +156,6 @@ namespace ECommerice.Api.Controllers
         //        Count = orders.Count()
         //    });
         //}
-
         #endregion
 
     }

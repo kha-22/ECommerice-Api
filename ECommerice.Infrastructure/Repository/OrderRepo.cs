@@ -41,7 +41,7 @@ namespace ECommerice.Infrastructure.Repository
         public async Task<Order> CreateOrderAsync(string userId, string userName, List<OrderItem> OrderItems)
         {
             //calc subtotal
-            var subTotal = OrderItems.Sum(item => item.Price * item.Quantity);
+            var subTotal = OrderItems.Sum(item => item.Price * item.Quantity - item.Discount);
 
             //create order
             var order = new Order();
@@ -49,20 +49,24 @@ namespace ECommerice.Infrastructure.Repository
             order.UserId = userId;
             order.Username = userName;
             order.TotalAmount = subTotal;
-            order.OrderItems = OrderItems;
+            
+            foreach (var item in OrderItems)            
+                item.Total = (item.Price * item.Quantity) - item.Discount;            
 
+            order.OrderItems = OrderItems;
             _uniteOfWork.Repository<Order>().Add(order);
 
-            foreach (var item in OrderItems)
-            {
-                var product = await _uniteOfWork.Repository<Product>().GetWhereObject(p => p.Id == item.ProductId);
-                product.Quantity = product.Quantity - item.Quantity;
+            //foreach (var item in OrderItems)
+            //{
+            //    var product = await _uniteOfWork.Repository<Product>().GetWhereObject(p => p.Id == item.ProductId);
+            //    product.Quantity = product.Quantity - item.Quantity;
+            //    product.Price = product.Price - item.Discount;
 
-                _uniteOfWork.Repository<Product>().Update(product);
-            }
+            //    _uniteOfWork.Repository<Product>().Update(product);
+            //}
 
             //save in db
-            var result = await _uniteOfWork.Complete();
+            var result = await _uniteOfWork.CompleteAsync();
             if (result <= 0) return null;
 
 

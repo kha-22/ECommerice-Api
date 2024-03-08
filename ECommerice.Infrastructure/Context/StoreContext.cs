@@ -29,6 +29,8 @@ namespace ECommerice.Infrastructure
         public DbSet<Order> Order { get; set;}
         public DbSet<OrderItem> OrderItem{ get; set;}
         public DbSet<DeliveryMethod> DeliveryMethod { get; set;}
+        public DbSet<Contactus> Contactus { get; set; }
+        
 
 
     }
