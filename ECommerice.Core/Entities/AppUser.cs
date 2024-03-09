@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using ECommerice.Core.Entities.OrderAggregate;
+using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -17,5 +18,9 @@ namespace ECommerice.Core.Entities
 
         [Column(TypeName = "Date")]
         public DateTime CreatedDate { get; set; }
+
+        public List<Contactus> ContactusList { get; set; }
+        public List<Address> AddressList { get; set; }
+        public List<Order> OrderList { get; set; }
     }
 }

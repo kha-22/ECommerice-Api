@@ -3,6 +3,7 @@ using ECommerice.Core.Entities;
 using ECommerice.Core.Entities.OrderAggregate;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
 namespace ECommerice.Infrastructure
 {
@@ -25,6 +26,22 @@ namespace ECommerice.Infrastructure
 
             modelBuilder.Entity<Product>()
                 .Property(p => p.Description).HasMaxLength(1000);
+
+            modelBuilder.Entity<AppUser>()
+             .HasMany(c => c.AddressList)
+             .WithOne(e => e.AppUser)
+             .HasForeignKey(f => f.UserId);
+
+            modelBuilder.Entity<AppUser>()
+              .HasMany(c => c.ContactusList)
+              .WithOne(e => e.AppUser)
+              .HasForeignKey(f => f.UserId);
+
+            modelBuilder.Entity<AppUser>()
+             .HasMany(c => c.OrderList)
+             .WithOne(e => e.AppUser)
+             .HasForeignKey(f => f.UserId);
+
         }
 
         public DbSet<Product> Product {get; set;}

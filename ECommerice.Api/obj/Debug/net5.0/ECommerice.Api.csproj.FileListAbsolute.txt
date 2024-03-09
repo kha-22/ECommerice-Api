@@ -404,3 +404,4 @@ E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\EC
 E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\refint\ECommerice.Api.dll
 E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.dll
 E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\Programming\My Work & Projects\Ahmed Abdelmohsen\Sourc code\ECommerice-api\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cs

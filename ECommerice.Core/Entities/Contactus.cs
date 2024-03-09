@@ -15,5 +15,6 @@ namespace ECommerice.Core.Entities
         public DateTime? RepayDate { get; set; }
 
         public string UserId { get; set; }
+        public AppUser AppUser { get; set; }
     }
 }

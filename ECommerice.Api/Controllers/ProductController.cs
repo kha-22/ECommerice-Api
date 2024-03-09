@@ -242,19 +242,24 @@ namespace ECommerice.Api.Controllers
             if (user.UserType == "user") return Unauthorized(new ApiResponse(401));
 
             var productImage = await _productImagesRepo.GetByIdAsync(id);
-            var currentMainPhoto = await _productImagesRepo.GetWhereObject(p => p.ProductId == productImage.ProductId);
-            
-            currentMainPhoto.IsMain = false;
-            productImage.IsMain = true;
+            var currentPhotoList = await _productImagesRepo.GetWhere(p => p.ProductId == productImage.ProductId);
 
-            _productImagesRepo.Update(productImage);
-            _productImagesRepo.Update(currentMainPhoto);
-
-            if (await _productRepo.SaveChanges())
+            foreach (var item in currentPhotoList)
             {
-                _uploaderRepo.Delete(productImage.Url, _hostingEnvironment);
+                item.IsMain = false;
+                _productImagesRepo.Update(item);
+                await _productRepo.SaveChanges();
+            }
+
+            productImage.IsMain = true;
+            _productImagesRepo.Update(productImage);
+
+            if (await _productImagesRepo.SaveChanges())
+            {
+                //_uploaderRepo.Delete(productImage.Url, _hostingEnvironment);
                 return Ok(true);
             }
+               
             return BadRequest(false);
         }
         #endregion

@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ECommerice.Infrastructure.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20240309114220_Create_DB")]
+    [Migration("20240309140737_Create_DB")]
     partial class Create_DB
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -28,17 +28,7 @@ namespace ECommerice.Infrastructure.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("AppUserId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
-
                     b.Property<string>("City")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("FirstName")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("LastName")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("State")
@@ -47,13 +37,15 @@ namespace ECommerice.Infrastructure.Migrations
                     b.Property<string>("Street")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("UserId")
+                        .HasColumnType("nvarchar(450)");
+
                     b.Property<string>("ZipCode")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("AppUserId")
-                        .IsUnique();
+                    b.HasIndex("UserId");
 
                     b.ToTable("Address");
                 });
@@ -64,6 +56,9 @@ namespace ECommerice.Infrastructure.Migrations
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<int>("AccessFailedCount")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("AddressId")
                         .HasColumnType("int");
 
                     b.Property<string>("ConcurrencyStamp")
@@ -124,6 +119,8 @@ namespace ECommerice.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("AddressId");
+
                     b.HasIndex("NormalizedEmail")
                         .HasDatabaseName("EmailIndex");
 
@@ -173,9 +170,11 @@ namespace ECommerice.Infrastructure.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("UserId")
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Contactus");
                 });
@@ -218,12 +217,14 @@ namespace ECommerice.Infrastructure.Migrations
                         .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("UserId")
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Username")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("UserId");
 
                     b.ToTable("Order");
                 });
@@ -488,10 +489,35 @@ namespace ECommerice.Infrastructure.Migrations
             modelBuilder.Entity("ECommerice.Core.Entities.Address", b =>
                 {
                     b.HasOne("ECommerice.Core.Entities.AppUser", "AppUser")
-                        .WithOne("Address")
-                        .HasForeignKey("ECommerice.Core.Entities.Address", "AppUserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .WithMany("AddressList")
+                        .HasForeignKey("UserId");
+
+                    b.Navigation("AppUser");
+                });
+
+            modelBuilder.Entity("ECommerice.Core.Entities.AppUser", b =>
+                {
+                    b.HasOne("ECommerice.Core.Entities.Address", "Address")
+                        .WithMany()
+                        .HasForeignKey("AddressId");
+
+                    b.Navigation("Address");
+                });
+
+            modelBuilder.Entity("ECommerice.Core.Entities.Contactus", b =>
+                {
+                    b.HasOne("ECommerice.Core.Entities.AppUser", "AppUser")
+                        .WithMany("ContactusList")
+                        .HasForeignKey("UserId");
+
+                    b.Navigation("AppUser");
+                });
+
+            modelBuilder.Entity("ECommerice.Core.Entities.OrderAggregate.Order", b =>
+                {
+                    b.HasOne("ECommerice.Core.Entities.AppUser", "AppUser")
+                        .WithMany("OrderList")
+                        .HasForeignKey("UserId");
 
                     b.Navigation("AppUser");
                 });
@@ -591,7 +617,11 @@ namespace ECommerice.Infrastructure.Migrations
 
             modelBuilder.Entity("ECommerice.Core.Entities.AppUser", b =>
                 {
-                    b.Navigation("Address");
+                    b.Navigation("AddressList");
+
+                    b.Navigation("ContactusList");
+
+                    b.Navigation("OrderList");
                 });
 
             modelBuilder.Entity("ECommerice.Core.Entities.Category", b =>

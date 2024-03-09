@@ -9,7 +9,7 @@ namespace ECommerice.Core.Entities.OrderAggregate
 {
     public class Order :BaseEntity
     {
-        public string UserId { get; set; }
+       
         public string Username { get; set; }
 
         [Column(TypeName = "Date")]
@@ -17,5 +17,8 @@ namespace ECommerice.Core.Entities.OrderAggregate
         public decimal TotalAmount { get; set; }
 
         public List<OrderItem> OrderItems { get; set; }
+
+        public string UserId { get; set; }
+        public AppUser AppUser { get; set; }
     }
 }

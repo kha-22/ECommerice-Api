@@ -20,15 +20,15 @@ namespace ECommerice.Infrastructure.Context
                     Email = "admin@gmail.com",
                     UserName = "admin@gmail.com",
                     UserType = "admin",
-                    Address = new Address
-                    {
-                        FirstName = "admin",
-                        LastName = "admin",
-                        Street = "10 the street",
-                        City = "Sohage",
-                        State = "Egypt",
-                        ZipCode = "71111"
-                    }
+                    //Address = new Address
+                    //{
+                    //    //FirstName = "admin",
+                    //    //LastName = "admin",
+                    //    Street = "10 the street",
+                    //    City = "Sohage",
+                    //    State = "Egypt",
+                    //    ZipCode = "71111"
+                    //}
                 };
                 await userManager.CreateAsync(user, "SSr!nwm08");
             }
