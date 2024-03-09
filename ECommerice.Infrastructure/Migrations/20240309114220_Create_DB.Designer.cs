@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ECommerice.Infrastructure.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20240224085239_Create_DB2")]
-    partial class Create_DB2
+    [Migration("20240309114220_Create_DB")]
+    partial class Create_DB
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -281,8 +281,8 @@ namespace ECommerice.Infrastructure.Migrations
 
                     b.Property<string>("Description")
                         .IsRequired()
-                        .HasMaxLength(180)
-                        .HasColumnType("nvarchar(180)");
+                        .HasMaxLength(1000)
+                        .HasColumnType("nvarchar(1000)");
 
                     b.Property<decimal>("Discount")
                         .HasColumnType("decimal(18,2)");

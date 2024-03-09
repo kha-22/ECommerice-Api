@@ -60,10 +60,9 @@ namespace ECommerice.Api
                 opt.AddPolicy("CorePolicy", policy =>
                 {
                     policy.AllowAnyHeader().AllowAnyMethod()
-                    .WithOrigins("http://localhost:4200", 
-                    "http://localhost:4201",
-                    "http://localhost:4202",
-                    "http://localhost:65374");
+                    .WithOrigins("http://localhost:4100", 
+                    "http://localhost:4200",
+                    "http://localhost:4202");
                 });
             });
         }

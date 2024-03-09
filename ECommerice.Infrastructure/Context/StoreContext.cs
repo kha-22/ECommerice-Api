@@ -22,6 +22,9 @@ namespace ECommerice.Infrastructure
                .HasOne<Category>(s => s.Category)
                .WithMany(g => g.Products)
                .HasForeignKey(s => s.CategoryId);
+
+            modelBuilder.Entity<Product>()
+                .Property(p => p.Description).HasMaxLength(1000);
         }
 
         public DbSet<Product> Product {get; set;}

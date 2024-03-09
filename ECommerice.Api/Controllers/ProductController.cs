@@ -127,18 +127,26 @@ namespace ECommerice.Api.Controllers
 
             product.CreatedDate = DateTime.Now;
             _productRepo.Add(product);
-            
 
-            if (await _productRepo.SaveChanges())
+
+            try
             {
-                foreach (var pImage in product.ProductImages)
+                if (await _productRepo.SaveChanges())
                 {
-                    pImage.Id = product.Id;
-                    _productImagesRepo.Add(pImage);
-                    await _productImagesRepo.SaveChanges();
+                    foreach (var pImage in product.ProductImages)
+                    {
+                        pImage.Id = product.Id;
+                        _productImagesRepo.Add(pImage);
+                        await _productImagesRepo.SaveChanges();
+                    }
+
+                    return Ok();
                 }
-               
-                return Ok();
+            }
+            catch (Exception ex)
+            {
+
+                throw;
             }
             return BadRequest();
         }
