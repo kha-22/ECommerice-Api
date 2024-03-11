@@ -34,7 +34,7 @@ namespace ECommerice.Infrastructure.Repository
         public async Task<IReadOnlyList<T>> GetLatestData(int take, string include, string thenInClude = null)
         {
             return await _context.Set<T>().Take(take)
-                  .Include(include)
+                .Include(include)
                 .Include(thenInClude)
                 .ToListAsync();
         }

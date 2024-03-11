@@ -20,6 +20,8 @@ namespace ECommerice.Api.Controllers
     public class ProductController : BaseApiController
     {
         private readonly IGenericRepository<Product> _productRepo;
+        private readonly IProductRepo _productRepository;
+        private readonly IGenericRepository<ProductReview> _productReviewRepo;
         private readonly IGenericRepository<ProductImage> _productImagesRepo;
         private readonly IUploaderRepo _uploaderRepo;
         private readonly IGenericRepository<Category> _category;
@@ -33,7 +35,9 @@ namespace ECommerice.Api.Controllers
             IMapper mapper,
             UserManager<AppUser> userManager,
             IUploaderRepo uploaderRepo,
-            IHostingEnvironment hostingEnvironment)
+            IHostingEnvironment hostingEnvironment,
+            IGenericRepository<ProductReview> productReviewRepo,
+            IProductRepo productRepository)
         {
             _productRepo = productRepo;
             _category = category;
@@ -42,6 +46,8 @@ namespace ECommerice.Api.Controllers
             _productImagesRepo = productImagesRepo;
             _uploaderRepo = uploaderRepo;
             _hostingEnvironment = hostingEnvironment;
+            _productReviewRepo = productReviewRepo;
+            _productRepository = productRepository;
         }
 
         [HttpGet("getProducts")]
@@ -114,6 +120,38 @@ namespace ECommerice.Api.Controllers
                 status = true
             });
 
+        }
+
+        [Authorize]
+        [HttpPost("addProductRate")]
+        public async Task<ActionResult<Category>> AddProductRate(ProductRateDTO productRate)
+        {
+            var user = await _userManager.FindByEmailFromClaimPrincipleAsync(HttpContext.User);
+            if (user == null) return Unauthorized(new ApiResponse(401));
+
+            var productReview = new ProductReview
+            {
+                Comment = "",
+                Date = DateTime.Now,
+                ProductId = productRate.ProductId,
+                Rating = productRate.Rate
+            };
+            _productReviewRepo.Add(productReview);
+
+            if (await _productReviewRepo.SaveChanges())            
+                return Ok();
+            
+            return BadRequest();
+        }
+
+        [HttpGet("topSellingProducts")]
+        public async Task<ActionResult<Pagination<ProductToReturnDTO>>> TopSellingProducts()
+        {
+            var products = await _productRepo.GetLatestData(3, "ProductImages", "ProductReviews");
+            var data = _mapper
+                .Map<IReadOnlyList<Product>, IReadOnlyList<ProductToReturnDTO>>(products);
+
+            return Ok(data);
         }
 
 
@@ -262,6 +300,7 @@ namespace ECommerice.Api.Controllers
                
             return BadRequest(false);
         }
+
         #endregion
     }
 }

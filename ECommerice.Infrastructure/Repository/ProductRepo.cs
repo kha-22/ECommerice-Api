@@ -1,5 +1,6 @@
 ﻿using ECommerice.Core.Entities;
 using ECommerice.Core.IRepository;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -35,6 +36,37 @@ namespace ECommerice.Infrastructure.Repository
         public async Task<IReadOnlyList<Category>> GetCategoryAsync()
         {
             return await _context.Category.ToListAsync();
+        }
+
+        public List<Product> TopSellingProducts()
+        {
+            //var query = from prod in _context.Product
+            //            join ordItem in _context.OrderItem
+            //            on prod.Id equals ordItem.ProductId
+            //            orderby prod.Quantity
+            //            select prod;
+
+
+            var topSellingProducts = _context.OrderItem
+                   .GroupBy(o => o.ProductId)
+                   .Select(g => new
+                   {
+                       ProductId = g.Key,
+                       TotalQuantitySold = g.Sum(o => o.Quantity)
+                   })
+                   .OrderByDescending(p => p.TotalQuantitySold)
+                   .Take(10) // You can change this to get top N selling products
+                   .ToList();
+
+            var topSellingProductsInfo =  (from ts in topSellingProducts
+                                          join p in _context.Product on ts.ProductId equals p.Id
+                                          select p)
+                                          .ToList();
+
+
+
+            return topSellingProductsInfo;   
+                        
         }
     }
 }
